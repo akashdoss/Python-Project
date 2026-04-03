@@ -57,13 +57,5 @@ This project helped me understand:
 * Basic data visualization
 * Building a simple CLI-based application
 
-## Future Improvements
 
-* Add budget limit alerts
-* Improve input validation
-* Convert to GUI using Tkinter
-* Add smart suggestions based on spending patterns
 
-## Conclusion
-
-This is a beginner-friendly project that gives a clear idea of how real-world applications can be built using simple Python concepts.
